@@ -1,7 +1,9 @@
 # parvdemo
 demo on git
 
-adding this line
-
 git init 
 git clone <URL>
+
+git add .
+git add *
+git add <filename1> <filename2>
